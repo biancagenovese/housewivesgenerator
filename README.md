@@ -4,9 +4,10 @@
 Have you always had the burning desire to know which Real Housewife you are? 
 
 This Housewives Generator will tell you: 
--Which housewife you are.
--Who your house husband is. 
--Your iconic quote. 
+
+1. Which housewife you are.
+2. Who your house husband is. 
+3. Your iconic quote. 
 
 *Enjoy*
 
